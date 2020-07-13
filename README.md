@@ -1,1 +1,2 @@
-"# 100-days-of-code-excersises" 
+# 100-days-of-code-exercises 
+
